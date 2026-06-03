@@ -1,0 +1,4 @@
+*.pdf
+*.tar.gz
+/data/
+*.pkl
